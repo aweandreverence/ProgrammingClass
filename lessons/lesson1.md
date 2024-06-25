@@ -2,6 +2,8 @@
 
 ## Lesson 1: Introduction to Computer Science
 
+Lesson Date: 2024-06-23
+
 ### Topics Covered
 
 1. **PB&J**
