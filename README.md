@@ -8,7 +8,7 @@ Professionally, I have been working in Silicon Valley for over 2 decades as a so
 
 This is an introductory programming class meant to be taught to kids aged 11 or older. In the summer of 2024, I am currently teaching my son and a couple of his friends computer programming.
 
-This course aims to find a balance among teaching fundamental theories and concepts (30%), computer programming and languages (15%), and 
+This course aims to find a balance among teaching fundamental theories and concepts (30%), computer programming and languages (25%), software engineering (25%), and software engineering and programming techniques (25%) -- meaning, you will get A LOT more CS theory (ideally) than a traditional (college-level) programming class, but you will not get as much theory as a traditional (college-level) CS class.
 
 If you ask most kids, they will say that they want to learn computer programming so that they can make their own video games.
 
