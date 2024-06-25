@@ -118,7 +118,7 @@ Lesson Date: 2024-06-23
 15. **HTML and CSS**
     - Brief introduction to HTML (HyperText Markup Language) and CSS (Cascading Style Sheets). We will learn more in depth later.
     - [Simple Wikipedia: HTML](https://simple.wikipedia.org/wiki/HTML)
-    - [Simple Wikipedia: CSS](https://simple.wikipedia.org/wiki/CSS)
+    - [Simple Wikipedia: CSS](https://simple.wikipedia.org/wiki/Cascading_Style_Sheets)
 
 16. **Data Sizes**
     - 8 bits in a byte; half of a byte is a nibble.
