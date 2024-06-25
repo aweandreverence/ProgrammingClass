@@ -19,6 +19,7 @@ Lesson Date: 2024-06-23
    - Examples of real-life algorithms:
      - Maps with turn-by-turn driving directions.
      - Recipes for baking cookies.
+        - What would happen if you followed the instructions, but out of order?
 
 4. **Modern Computers**
    - Emerged in the 1960s-1970s. [Khan Academy: Modern Computers](https://www.khanacademy.org/computing/computer-science)
