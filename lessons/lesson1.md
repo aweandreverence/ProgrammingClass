@@ -132,7 +132,7 @@ Lesson Date: 2024-06-23
 
 ### Resources
 - [Learn X in Y Minutes: Python](https://learnxinyminutes.com/docs/python/)
-- [ASCII Table (No Ads)](https://www.asciitable.com/)
+- [ASCII Table](https://www.asciitable.com/)
 
 ### Homework
 
