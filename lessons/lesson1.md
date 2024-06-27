@@ -154,10 +154,11 @@ Lesson Date: 2024-06-23
    - Memorize powers of 2 up to 8192.
    - Practice Python using a Python REPL. Try out all features.
 
-4. **Reading**
+4. **Reading / Watching**
    - ASCII: Answer what is ASCII in one sentence. [Simple Wikipedia: ASCII](https://simple.wikipedia.org/wiki/ASCII)
    - Assembly language: Answer what is it in one sentence. [Simple Wikipedia: Assembly Language](https://simple.wikipedia.org/wiki/Assembly_language)
    - Machine Language: Answer what is it in one sentence. [Simple Wikipedia: Machine Code](https://simple.wikipedia.org/wiki/Machine_code)
+   - Watch [BJC Lecture 1 - Abstraction](https://www.youtube.com/watch?v=Dxw9cIbzaLk&list=PLA4F0F0CA4A3EE7F4&index=1&pp=iAQB)
 
 5. **Writing Programs**
    - Write a Python program that prints out the powers of 2 from 0 to 32.
