@@ -1,10 +1,10 @@
 # Resources
 
-# Learning
+## Programming References
 - [Learn X in Y Minutes: Python](https://learnxinyminutes.com/docs/python/)
 - [ASCII Table](https://www.asciitable.com/)
 
-# Software
+## Software
 
 - [Homebrew (for Mac)](https://brew.sh/)
 - [iTerm2](https://iterm2.com/)
