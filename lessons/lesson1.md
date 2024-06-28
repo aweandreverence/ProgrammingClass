@@ -131,11 +131,11 @@ Lesson Date: 2024-06-23
       - Peta (P) = \(10^{15}\)
       - Exa (E) = \(10^{18}\)
 
-### Resources
+## Resources
 - [Learn X in Y Minutes: Python](https://learnxinyminutes.com/docs/python/)
 - [ASCII Table](https://www.asciitable.com/)
 
-### Homework
+## Homework
 
 1. **Set Up PC or Mac**
    - Download and install:
@@ -152,7 +152,7 @@ Lesson Date: 2024-06-23
 3. **Practice**
    - Count from 0 to 31 using one hand.
    - Memorize powers of 2 up to 8192.
-   - Practice Python using a Python REPL. Try out all features.
+   - Practice Python using a Python REPL. Try out all language features from [Learn X in Y Minutes: Python](https://learnxinyminutes.com/docs/python/).
 
 4. **Reading / Watching**
    - ASCII: Answer what is ASCII in one sentence. [Simple Wikipedia: ASCII](https://simple.wikipedia.org/wiki/ASCII)
@@ -168,17 +168,17 @@ Lesson Date: 2024-06-23
 6. **Figure out the ASCII Codes**
    - Find the ASCII codes for each letter in your first and last name. Use the provided ASCII table link.
 
-### Additional Resources
+## Additional Resources
 
 - **Khan Academy Computer Science Course:** [Khan Academy: Computer Science](https://www.khanacademy.org/computing/computer-science)
 - **Introduction to Python (YouTube Video):** [Python Programming for Beginners](https://www.youtube.com/watch?v=rfscVS0vtbw)
 - **Transistors Explained (YouTube Video):** [How Transistors Work](https://www.youtube.com/watch?v=IcrBqCFLHIY)
 
-### Communication and Questions
+## Communication and Questions
 
 - Submit any questions you have in our Slack workspace.
   - The invitation link for Slack is included in the email to the class.
 
-### Reminders
+## Reminders
 - Use Slack primarily for communication, asking questions, and doing homework.
 - Don’t forget to share your GitHub profile with the course instructor.
