@@ -1,6 +1,6 @@
 # Computer Science for Beginners
 
-## Lesson 3: Lab
+## Lesson 3: Python Lab Part 1
 
 Lesson Date: 2024-07-14
 

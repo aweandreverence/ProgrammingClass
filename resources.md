@@ -21,3 +21,5 @@
    - [CS50 2021](https://www.youtube.com/playlist?list=PLhQjrBD2T380Xnv_v683p6UjiKJZe13ki)
 - [Khan Academy: Computer Science Course](https://www.khanacademy.org/computing/computer-science)
 - [Python Programming for Beginners](https://www.youtube.com/watch?v=rfscVS0vtbw)
+- [Exercism](https://exercism.org) - Thousands of exercises across over 70 languages
+   - [Jonathan's Solutions](https://exercism.org/profiles/jontsai/solutions)
