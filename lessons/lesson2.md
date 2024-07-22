@@ -54,8 +54,8 @@ Lesson Date: 2024-06-30
 
 ### Reading / Videos
 
-- Code Stars: https://www.youtube.com/watch?v=dU1xS07N-FA
-- Automated Foosball Table: https://www.youtube.com/watch?v=xrwXZXGiP1w
+- [Code Stars](https://www.youtube.com/watch?v=dU1xS07N-FA)
+- [Automated Foosball Table](https://www.youtube.com/watch?v=xrwXZXGiP1w)
 
 ### Homework
 
